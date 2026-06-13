@@ -15,6 +15,10 @@ To start, you want to create a repository with your username as the name so it'l
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/19168532-08f6-488b-9059-89144a525760" />
 
 
+# Username Changes
+Changing your username affects if the README is still viewed as an intro repository or not, if your repository is still named your old username, your README won't show up as an intro repository. To fix this, click the repository and then the pen/brush icon and then follow the gif below.
+
+<img width="1280" height="960" alt="ezgif-6a5f5d24418ea710" src="https://github.com/user-attachments/assets/a288393c-e8e7-4408-819c-782c3eb01a1a" />
 
 
 # Coloured Text
