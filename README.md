@@ -3,7 +3,7 @@
 <p align="center">
 I've put a bunch of various codes into here and what they do to help PonyTown players create READMEs, you can treat this as a tutorial.
   
-[Original repository from my main](https://github.com/ikol-laufeyson/fun_stuff-PonyTown)
+[Original repository from my main](https://github.com/ikol-laufeyson/fun_stuff-PonyTown), although this one will be more up to date.
 
 # READMEs
 
